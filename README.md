@@ -7,6 +7,9 @@ At random intervals, the board will wake up and do something ranging from a slig
 
 If that's not enough, the NRF24L01 allows me to trigger other events with another copy of the board plugged into my computer!
 
+## Photos & Media
+Photos of the project can be found on my portfolio, [here](https://www.jim-heaney.com/usb-keyboard-prank.html).
+
 ## Current Release
 Version 1.0
 
